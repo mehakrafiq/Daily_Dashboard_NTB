@@ -1,0 +1,60 @@
+# Data Reports
+#############
+*.csv
+*.xlsx
+*.xls
+*.pdf
+*report*.*
+data_reports/
+reports/
+Data/
+
+# Python
+########
+# Byte-compiled / optimized files
+*.py[cod]
+__pycache__/
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env
+env/
+venv/
+.venv/
+
+# Database
+##########
+*.accdb
+*.laccdb
+*.db
+*.sqlite
+*.sqlite3
+*.sql
+
+# Compressed files
+#################
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.bz2
+
+
