@@ -8,6 +8,7 @@
 data_reports/
 reports/
 Data/
+deprecated/
 
 # Python
 ########
